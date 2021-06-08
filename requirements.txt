@@ -1,0 +1,5 @@
+Django == 3.2.3
+django-admin-interface
+django-tinymce
+Pillow
+whitenoise
